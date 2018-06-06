@@ -1,0 +1,200 @@
+#donorbutton a:hover,
+#lobbybutton a:hover,
+#portraitsbutton a:hover,
+#boardbutton a:hover  {
+   background-position: -112px 0%;
+}
+
+#atriumbutton a:hover,
+#paintingbutton a:hover  {
+   background-position: -113px 0%;
+}
+
+#exteriorbutton a:hover  {
+   background-position: -110px 0%;
+}
+
+#clinicbutton a:hover  {
+   background-position: -114px 0%;
+}
+
+#reliefbutton a:hover  {
+   background-position: -111px 0%;
+}
+
+#capriceglasertext  {
+   visibility: visible;
+   position: absolute;
+   left: 182px;
+   top: 534px;
+   z-index: 4;
+   width: 480px;
+}
+
+#exteriorbutton a  {
+   background: url(sg_home_media/exteriorbutton.gif) no-repeat 0% 0px;
+   display: block;
+   height: 110px;
+   width: 110px;
+   font-size: 110px;
+   line-height: 110px;
+}
+
+#reliefbutton a  {
+   background: url(sg_home_media/reliefbutton.gif) no-repeat 0% 0px;
+   display: block;
+   height: 111px;
+   width: 111px;
+   font-size: 111px;
+   line-height: 111px;
+}
+
+#exteriorbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 210px;
+   top: 35px;
+   z-index: 4;
+   width: 110px;
+   height: 110px;
+}
+
+#clinicbutton a  {
+   background: url(sg_home_media/clinicbutton.gif) no-repeat 0% 0px;
+   display: block;
+   height: 114px;
+   width: 114px;
+   font-size: 114px;
+   line-height: 114px;
+}
+
+#portraitspopup  {
+   background: url(sg_home_media/portraitspopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 349px;
+   top: 440px;
+   z-index: 11;
+   width: 97px;
+   height: 13px;
+}
+
+#paintingpopup  {
+   background: url(sg_home_media/paintingpopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 345px;
+   top: 440px;
+   z-index: 6;
+   width: 104px;
+   height: 17px;
+}
+
+#exteriorpopup  {
+   background: url(sg_home_media/exteriorpopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 290px;
+   top: 440px;
+   z-index: 4;
+   width: 208px;
+   height: 17px;
+}
+
+#reliefbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 479px;
+   top: 172px;
+   z-index: 4;
+   width: 111px;
+   height: 111px;
+}
+
+#clinicbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 208px;
+   top: 170px;
+   z-index: 4;
+   width: 114px;
+   height: 114px;
+}
+
+#clinicpopup  {
+   background: url(sg_home_media/clinicpopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 270px;
+   top: 440px;
+   z-index: 7;
+   width: 244px;
+   height: 17px;
+}
+
+#atriumpopup  {
+   background: url(sg_home_media/atriumpopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 240px;
+   top: 440px;
+   z-index: 5;
+   width: 302px;
+   height: 17px;
+}
+
+#reliefpopup  {
+   background: url(sg_home_media/reliefpopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 307px;
+   top: 440px;
+   z-index: 9;
+   width: 176px;
+   height: 17px;
+}
+
+#connections  {
+   background: url(sg_home_media/connections.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 137px;
+   top: 472px;
+   z-index: 4;
+   width: 526px;
+   height: 49px;
+}
+
+#boardpopup  {
+   background: url(sg_home_media/boardpopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 293px;
+   top: 440px;
+   z-index: 10;
+   width: 213px;
+   height: 13px;
+}
+
+#lobbypopup  {
+   background: url(sg_home_media/lobbypopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 321px;
+   top: 440px;
+   z-index: 8;
+   width: 147px;
+   height: 17px;
+}
+
+#donorpopup  {
+   background: url(sg_home_media/donorpopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 329px;
+   top: 440px;
+   z-index: 12;
+   width: 135px;
+   height: 13px;
+}
+

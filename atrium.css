@@ -1,0 +1,92 @@
+#i1849button a:hover,
+#waterdbutton a:hover,
+#waterbutton a:hover,
+#i18dbutton a:hover,
+#cloudbutton a:hover  {
+   background-position: -50px 0%;
+}
+
+#togethertext  {
+   visibility: visible;
+   position: absolute;
+   left: 51px;
+   top: 425px;
+   z-index: 4;
+   width: 320px;
+}
+
+#waterdpopup  {
+   background: url(sg_atrium_media/waterdpopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 0px;
+   top: 14px;
+   z-index: 6;
+   width: 428px;
+   height: 440px;
+}
+
+#cloudpopup  {
+   background: url(sg_atrium_media/cloudpopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 0px;
+   top: 20px;
+   z-index: 9;
+   width: 445px;
+   height: 440px;
+}
+
+#waterpopup  {
+   background: url(sg_atrium_media/waterpopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 0px;
+   top: 19px;
+   z-index: 5;
+   width: 438px;
+   height: 440px;
+}
+
+#atriumtext  {
+   visibility: visible;
+   position: absolute;
+   left: 457px;
+   top: 155px;
+   z-index: 4;
+   width: 262px;
+}
+
+#i1849popup  {
+   background: url(sg_atrium_media/1849popup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 0px;
+   top: 14px;
+   z-index: 8;
+   width: 419px;
+   height: 424px;
+}
+
+#i18dpopup  {
+   background: url(sg_atrium_media/18dpopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 2px;
+   top: 21px;
+   z-index: 7;
+   width: 450px;
+   height: 440px;
+}
+
+#together  {
+   background: url(sg_atrium_media/together.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 62px;
+   top: 22px;
+   z-index: 4;
+   width: 268px;
+   height: 397px;
+}
+

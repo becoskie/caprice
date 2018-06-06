@@ -1,0 +1,48 @@
+#lifebutton a:hover,
+#scoutsbutton a:hover,
+#heartbutton a:hover  {
+   background-position: -50px 0%;
+}
+
+#scoutspopup  {
+   background: url(sg_lobby_media/scoutspopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 55px;
+   top: 31px;
+   z-index: 7;
+   width: 400px;
+   height: 405px;
+}
+
+#lifepopup  {
+   background: url(sg_lobby_media/lifepopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 46px;
+   top: 30px;
+   z-index: 6;
+   width: 400px;
+   height: 408px;
+}
+
+#logotext  {
+   visibility: visible;
+   position: absolute;
+   left: 502px;
+   top: 136px;
+   z-index: 4;
+   width: 286px;
+}
+
+#house  {
+   background: url(sg_lobby_media/house.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 95px;
+   top: 32px;
+   z-index: 4;
+   width: 284px;
+   height: 396px;
+}
+

@@ -1,0 +1,609 @@
+a  {
+   text-decoration: none;
+   color: #000000;
+}
+
+a ins  {
+   text-decoration: none;
+}
+
+#seasonbutton a,
+#ozbutton a,
+#parkbutton a,
+#i1849button a,
+#waterdbutton a,
+#moonbutton a,
+#waterbutton a,
+#grandbutton a,
+#duckbutton a,
+#wendellbutton a,
+#animalbutton a,
+#i18dbutton a,
+#worldbutton a,
+#landbutton a,
+#scoutsbutton a,
+#lifebutton a,
+#clairebutton a,
+#heartbutton a,
+#summerbutton a,
+#newbornbutton a,
+#angelbutton a,
+#id1flowerbutton a,
+#cloudbutton a,
+#id0flowerbutton a,
+#tenbutton a,
+#owlbutton a,
+#whitebutton a,
+#patentbutton a,
+#beebutton a  {
+   background-repeat: no-repeat;
+   display: block;
+   height: 50px;
+   width: 50px;
+   background-position: 0% 0px;
+   font-size: 50px;
+   line-height: 50px;
+}
+
+#togethertext p,
+#paintingtext p,
+#portraittext p,
+#logotext p,
+#donortext p,
+#relieftext p,
+#atriumtext p  {
+   font: 10px/12px Arial;
+   margin: 0px;
+   color: #737373;
+   letter-spacing: 2px;
+   text-align: left;
+}
+
+#moonbutton,
+#waterbutton,
+#cloudbutton,
+#waterdbutton,
+#i1849button,
+#id1flowerbutton,
+#i18dbutton  {
+   visibility: visible;
+   position: absolute;
+   top: 482px;
+   z-index: 4;
+   width: 50px;
+   height: 50px;
+}
+
+#angelbutton,
+#summerbutton,
+#tenbutton,
+#seasonbutton,
+#landbutton  {
+   visibility: visible;
+   position: absolute;
+   top: 452px;
+   z-index: 4;
+   width: 50px;
+   height: 50px;
+}
+
+#portraitsbutton a,
+#boardbutton a,
+#lobbybutton a,
+#donorbutton a  {
+   background-repeat: no-repeat;
+   display: block;
+   height: 112px;
+   width: 112px;
+   background-position: 0% 0px;
+   font-size: 112px;
+   line-height: 112px;
+}
+
+#animalbutton,
+#id0flowerbutton,
+#parkbutton,
+#clairebutton  {
+   visibility: visible;
+   position: absolute;
+   top: 476px;
+   z-index: 4;
+   width: 50px;
+   height: 50px;
+}
+
+#newbornbutton,
+#patentbutton,
+#whitebutton,
+#wendellbutton  {
+   visibility: visible;
+   position: absolute;
+   top: 462px;
+   z-index: 4;
+   width: 50px;
+   height: 50px;
+}
+
+#i6512226384text p,
+#capricecapriceglasercomtext p  {
+   font: 10px/12px Arial;
+   margin: 0px;
+   letter-spacing: 6px;
+   text-align: left;
+}
+
+#heartbutton,
+#scoutsbutton,
+#lifebutton  {
+   visibility: visible;
+   position: absolute;
+   top: 477px;
+   z-index: 4;
+   width: 50px;
+   height: 50px;
+}
+
+#exteriortext p,
+#capriceglasertext p  {
+   font: 12px/14px Arial;
+   margin: 0px;
+   text-align: left;
+}
+
+#paintingbutton a,
+#atriumbutton a  {
+   background-repeat: no-repeat;
+   display: block;
+   height: 113px;
+   width: 113px;
+   background-position: 0% 0px;
+   font-size: 113px;
+   line-height: 113px;
+}
+
+#capricecapriceglasercomtext p a  {
+   border: 0px none #000000;
+   text-decoration: none;
+   letter-spacing: 6px;
+}
+
+#paintingbutton,
+#atriumbutton  {
+   visibility: visible;
+   position: absolute;
+   top: 35px;
+   z-index: 4;
+   width: 113px;
+   height: 113px;
+}
+
+#lobbybutton,
+#portraitsbutton  {
+   visibility: visible;
+   position: absolute;
+   left: 343px;
+   z-index: 4;
+   width: 112px;
+   height: 112px;
+}
+
+#capricecapriceglasercomtext  {
+   visibility: visible;
+   position: absolute;
+   left: 267px;
+   top: 568px;
+   z-index: 4;
+   width: 303px;
+}
+
+#summerpopup,
+#newbornpopup  {
+   visibility: hidden;
+   position: absolute;
+   left: 47px;
+   z-index: 6;
+   width: 400px;
+   height: 400px;
+   background-repeat: no-repeat;
+}
+
+#donorbutton,
+#boardbutton  {
+   visibility: visible;
+   position: absolute;
+   top: 304px;
+   z-index: 4;
+   width: 112px;
+   height: 112px;
+}
+
+#heartpopup,
+#patentpopup  {
+   visibility: hidden;
+   position: absolute;
+   left: 44px;
+   z-index: 5;
+   width: 400px;
+   height: 400px;
+   background-repeat: no-repeat;
+}
+
+#grandbutton,
+#ozbutton  {
+   visibility: visible;
+   position: absolute;
+   top: 467px;
+   z-index: 4;
+   width: 50px;
+   height: 50px;
+}
+
+#owlbutton,
+#duckbutton  {
+   visibility: visible;
+   position: absolute;
+   top: 481px;
+   z-index: 4;
+   width: 50px;
+   height: 50px;
+}
+
+#capriceglasertext p  {
+   letter-spacing: 27px;
+}
+
+#homebutton a:hover  {
+   background-position: -50px 0%;
+}
+
+#portraitsbutton a  {
+   background-image: url(sg_home_media/portraitsbutton.gif);
+}
+
+#id1flowerbutton a  {
+   background-image: url(sg_clinic_media/id1flowerbutton.gif);
+}
+
+#id0flowerbutton a  {
+   background-image: url(sg_exterior_media/id0flowerbutton.gif);
+}
+
+#paintingbutton a  {
+   background-image: url(sg_home_media/paintingbutton.gif);
+}
+
+#i6512226384text  {
+   visibility: visible;
+   position: absolute;
+   left: 339px;
+   top: 585px;
+   z-index: 4;
+   width: 144px;
+}
+
+#wendellbutton a  {
+   background-image: url(sg_donor_media/wendellbutton.gif);
+}
+
+#id0flowerbutton  {
+   left: 171px;
+}
+
+#newbornbutton a  {
+   background-image: url(sg_donor_media/newbornbutton.gif);
+}
+
+#portraitsbutton  {
+   top: 305px;
+}
+
+#id1flowerbutton  {
+   left: 307px;
+}
+
+#summerbutton a  {
+   background-image: url(sg_relief_media/summerbutton.gif);
+}
+
+#scoutsbutton a  {
+   background-image: url(sg_lobby_media/scoutsbutton.gif);
+}
+
+#seasonbutton a  {
+   background-image: url(sg_relief_media/seasonbutton.gif);
+}
+
+#clairebutton a  {
+   background-image: url(sg_exterior_media/clairebutton.gif);
+}
+
+#paintingbutton  {
+   left: 480px;
+}
+
+#atriumbutton a  {
+   background-image: url(sg_home_media/atriumbutton.gif);
+}
+
+#exteriortext p  {
+   color: #737373;
+}
+
+#patentbutton a  {
+   background-image: url(sg_donor_media/patentbutton.gif);
+}
+
+#waterdbutton a  {
+   background-image: url(sg_atrium_media/waterdbutton.gif);
+}
+
+#animalbutton a  {
+   background-image: url(sg_exterior_media/animalbutton.gif);
+}
+
+#cloudbutton a  {
+   background-image: url(sg_atrium_media/cloudbutton.gif);
+}
+
+#worldbutton a  {
+   background-image: url(sg_board_media/worldbutton.gif);
+}
+
+#wendellbutton  {
+   left: 139px;
+}
+
+#donorbutton a  {
+   background-image: url(sg_home_media/donorbutton.gif);
+}
+
+#lobbybutton a  {
+   background-image: url(sg_home_media/lobbybutton.gif);
+}
+
+#boardbutton a  {
+   background-image: url(sg_home_media/boardbutton.gif);
+}
+
+#angelbutton a  {
+   background-image: url(sg_relief_media/angelbutton.gif);
+}
+
+#waterbutton a  {
+   background-image: url(sg_atrium_media/waterbutton.gif);
+}
+
+#i1849button a  {
+   background-image: url(sg_atrium_media/1849button.gif);
+}
+
+#whitebutton a  {
+   background-image: url(sg_donor_media/whitebutton.gif);
+}
+
+#newbornbutton  {
+   left: 70px;
+}
+
+#heartbutton a  {
+   background-image: url(sg_lobby_media/heartbutton.gif);
+}
+
+#grandbutton a  {
+   background-image: url(sg_portraits_media/grandbutton.gif);
+}
+
+#scoutsbutton  {
+   left: 328px;
+}
+
+#homebutton a  {
+   background: url(sg_painting_media/homebutton.gif) no-repeat 0% 0px;
+   display: block;
+   height: 11px;
+   width: 50px;
+   font-size: 11px;
+   line-height: 11px;
+}
+
+#waterdbutton  {
+   left: 224px;
+}
+
+#lifebutton a  {
+   background-image: url(sg_lobby_media/lifebutton.gif);
+}
+
+#atriumbutton  {
+   left: 343px;
+}
+
+#landbutton a  {
+   background-image: url(sg_relief_media/landbutton.gif);
+}
+
+#summerbutton  {
+   left: 141px;
+}
+
+#seasonbutton  {
+   left: 58px;
+}
+
+#duckbutton a  {
+   background-image: url(sg_clinic_media/duckbutton.gif);
+}
+
+#moonbutton a  {
+   background-image: url(sg_clinic_media/moonbutton.gif);
+}
+
+#parkbutton a  {
+   background-image: url(sg_exterior_media/parkbutton.gif);
+}
+
+#newbornpopup  {
+   background-image: url(sg_donor_media/newbornpopup.gif);
+   top: 30px;
+}
+
+#animalbutton  {
+   left: 36px;
+}
+
+#patentbutton  {
+   left: 277px;
+}
+
+#i18dbutton a  {
+   background-image: url(sg_atrium_media/18dbutton.gif);
+}
+
+#clairebutton  {
+   left: 239px;
+}
+
+#donorbutton  {
+   left: 479px;
+}
+
+#lobbybutton  {
+   top: 171px;
+}
+
+#summerpopup  {
+   background-image: url(sg_relief_media/summerpopup.gif);
+   top: 32px;
+}
+
+#patentpopup  {
+   background-image: url(sg_donor_media/patentpopup.gif);
+   top: 23px;
+}
+
+#angelbutton  {
+   left: 388px;
+}
+
+#waterbutton  {
+   left: 287px;
+}
+
+#heartbutton  {
+   left: 95px;
+}
+
+#whitebutton  {
+   left: 208px;
+}
+
+#boardbutton  {
+   left: 209px;
+}
+
+#i1849button  {
+   left: 97px;
+}
+
+#tenbutton a  {
+   background-image: url(sg_relief_media/tenbutton.gif);
+}
+
+#owlbutton a  {
+   background-image: url(sg_clinic_media/owlbutton.gif);
+}
+
+#cloudbutton  {
+   left: 33px;
+}
+
+#beebutton a  {
+   background-image: url(sg_clinic_media/beebutton.gif);
+}
+
+#grandbutton  {
+   left: 73px;
+}
+
+#i18dbutton  {
+   left: 160px;
+}
+
+#duckbutton  {
+   left: 225px;
+}
+
+#heartpopup  {
+   background-image: url(sg_lobby_media/heartpopup.gif);
+   top: 30px;
+}
+
+#landbutton  {
+   left: 223px;
+}
+
+#background  {
+   margin: 0px auto 0px auto;
+   visibility: visible;
+   height: 600px;
+   width: 800px;
+   position: relative;
+   background-color: #FFFFFF;
+   background-image: none;
+}
+
+#whitepopup  {
+   background: url(sg_donor_media/whitepopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 44px;
+   top: 30px;
+   z-index: 8;
+   width: 400px;
+   height: 400px;
+}
+
+#ozbutton a  {
+   background-image: url(sg_portraits_media/ozbutton.gif);
+}
+
+#moonbutton  {
+   left: 389px;
+}
+
+#parkbutton  {
+   left: 104px;
+}
+
+#lifebutton  {
+   left: 212px;
+}
+
+#homebutton  {
+   visibility: visible;
+   position: absolute;
+   left: 690px;
+   top: 496px;
+   z-index: 4;
+   width: 50px;
+   height: 11px;
+}
+
+#owlbutton  {
+   left: 60px;
+}
+
+#tenbutton  {
+   left: 306px;
+}
+
+#ozbutton  {
+   left: 168px;
+}
+
+html, body  {
+   padding: 0px;
+   margin: 0px;
+   background-color: #FFFFFF;
+}
+

@@ -1,0 +1,72 @@
+#landbutton a:hover,
+#angelbutton a:hover,
+#tenbutton a:hover,
+#seasonbutton a:hover,
+#summerbutton a:hover  {
+   background-position: -50px 0%;
+}
+
+#seasonpopup  {
+   background: url(sg_relief_media/seasonpopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 52px;
+   top: 41px;
+   z-index: 5;
+   width: 400px;
+   height: 400px;
+}
+
+#angelpopup  {
+   background: url(sg_relief_media/angelpopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 42px;
+   top: 14px;
+   z-index: 9;
+   width: 400px;
+   height: 409px;
+}
+
+#relieftext  {
+   visibility: visible;
+   position: absolute;
+   left: 510px;
+   top: 171px;
+   z-index: 4;
+   width: 294px;
+}
+
+#landpopup  {
+   background: url(sg_relief_media/landpopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 48px;
+   top: 6px;
+   z-index: 7;
+   width: 400px;
+   height: 404px;
+}
+
+#tenpopup  {
+   background: url(sg_relief_media/tenpopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 41px;
+   top: 15px;
+   z-index: 8;
+   width: 400px;
+   height: 400px;
+}
+
+#inside  {
+   background: url(sg_relief_media/inside.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 58px;
+   top: 94px;
+   z-index: 4;
+   width: 380px;
+   height: 301px;
+}
+

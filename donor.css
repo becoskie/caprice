@@ -1,0 +1,38 @@
+#newbornbutton a:hover,
+#patentbutton a:hover,
+#whitebutton a:hover,
+#wendellbutton a:hover  {
+   background-position: -50px 0%;
+}
+
+#wendellpopup  {
+   background: url(sg_donor_media/wendellpopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 46px;
+   top: 31px;
+   z-index: 7;
+   width: 400px;
+   height: 400px;
+}
+
+#donortext  {
+   visibility: visible;
+   position: absolute;
+   left: 496px;
+   top: 160px;
+   z-index: 4;
+   width: 319px;
+}
+
+#emma  {
+   background: url(sg_donor_media/emma.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 47px;
+   top: 38px;
+   z-index: 4;
+   width: 400px;
+   height: 400px;
+}
+

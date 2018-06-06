@@ -1,0 +1,95 @@
+#owlbutton a:hover,
+#moonbutton a:hover,
+#beebutton a:hover,
+#duckbutton a:hover,
+#id1flowerbutton a:hover  {
+   background-position: -50px 0%;
+}
+
+#id1flowerpopup  {
+   background: url(sg_clinic_media/id1flowerpopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 46px;
+   top: 45px;
+   z-index: 8;
+   width: 400px;
+   height: 400px;
+}
+
+#clinictext  {
+   background: url(sg_clinic_media/clinictext.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 482px;
+   top: 196px;
+   z-index: 4;
+   width: 252px;
+   height: 213px;
+}
+
+#beebutton  {
+   visibility: visible;
+   position: absolute;
+   left: 142px;
+   top: 480px;
+   z-index: 4;
+   width: 50px;
+   height: 50px;
+}
+
+#moonpopup  {
+   background: url(sg_clinic_media/moonpopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 49px;
+   top: 33px;
+   z-index: 9;
+   width: 400px;
+   height: 400px;
+}
+
+#duckpopup  {
+   background: url(sg_clinic_media/duckpopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 49px;
+   top: 26px;
+   z-index: 7;
+   width: 400px;
+   height: 400px;
+}
+
+#beepopup  {
+   background: url(sg_clinic_media/beepopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 27px;
+   top: 39px;
+   z-index: 6;
+   width: 400px;
+   height: 400px;
+}
+
+#owlpopup  {
+   background: url(sg_clinic_media/owlpopup.gif) no-repeat;
+   visibility: hidden;
+   position: absolute;
+   left: 30px;
+   top: 42px;
+   z-index: 5;
+   width: 400px;
+   height: 400px;
+}
+
+#stork  {
+   background: url(sg_clinic_media/stork.gif) no-repeat;
+   visibility: visible;
+   position: absolute;
+   left: 101px;
+   top: 50px;
+   z-index: 4;
+   width: 269px;
+   height: 378px;
+}
+
